@@ -1,7 +1,7 @@
 I'm a 4th-year BSIT student major in Programming at PHINMA University of Pangasinan.
 
 - 👋 Hi, I’m Jelia H. Tanguilig
-- 👀 I’m interested in working on my skill, and
+- 👀 I’m interested working on my skill, and
       gain more knowledge in Programming
 - 🌱 I’m currently learning Programming Languages
 - 📫 How to reach me via my email: jeliatan123@gmail.com
